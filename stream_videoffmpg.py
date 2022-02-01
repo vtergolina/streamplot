@@ -76,7 +76,7 @@ tut = []
 pup = []
 
 #File Name
-os.system('ls "filenamehere" > list.txt')
+os.system('ls *"multiple binary filenames through * unix operator here" > list.txt')
 gap = 4.
 pp = 0
 depth = 60
